@@ -16,5 +16,6 @@ It supports the API's for:
 
 Keeps a database of chat completions (currently only in GPT mode, but will be added to ChatGPT mode soon)
 
+Includes Markdown Viewer (loads markdown from ChatGPT Desktop App by Lencx https://github.com/lencx/ChatGPT)
 
-![image](https://user-images.githubusercontent.com/128232619/226160077-034dbe2a-875c-458f-8cc1-d39c5175cab3.png)
+![image](https://user-images.githubusercontent.com/128232619/226171507-aa2d8b5b-f590-4cb1-a359-71df3c634916.png)
