@@ -16,7 +16,9 @@ It supports the API's for:
 
 Keeps a database of chat completions
 
+ChatGPT Mode has favorite threads, thread renaming, and moving chats between threads with drag and drop)
+
 Includes Markdown Viewer (loads markdown from ChatGPT Desktop App by Lencx https://github.com/lencx/ChatGPT)
 
-![image](https://user-images.githubusercontent.com/128232619/226841281-0e47dde8-a419-45d4-84bf-9cac78209254.png)
+![image](https://user-images.githubusercontent.com/128232619/227712235-3b5009d3-d0d9-43b8-b841-e703261e8901.png)
 
