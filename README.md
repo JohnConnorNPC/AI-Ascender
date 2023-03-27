@@ -20,5 +20,6 @@ ChatGPT Mode has favorite threads, thread renaming, and moving chats between thr
 
 Includes Markdown Viewer (loads markdown from ChatGPT Desktop App by Lencx https://github.com/lencx/ChatGPT)
 
-![image](https://user-images.githubusercontent.com/128232619/227712235-3b5009d3-d0d9-43b8-b841-e703261e8901.png)
+![image](https://user-images.githubusercontent.com/128232619/227889052-45a6f14d-f1eb-4c75-a744-4ad77729aab1.png)
+
 
