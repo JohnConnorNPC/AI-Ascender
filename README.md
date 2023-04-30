@@ -4,7 +4,6 @@ AI Ascender, a GUI that accesses Open AI's API
 It supports the API's for:
 
 * gpt-3.5-turbo
-* gpt-3.5-turbo-0301
 * gpt-4
 * gpt-4-32k
 
